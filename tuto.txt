@@ -1,2 +1,2 @@
-imple page pdf pour le tuto
-le push a recu
+la page pdf pour le tuto
+le push et le rename a bien marche
